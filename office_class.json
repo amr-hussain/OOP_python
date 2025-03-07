@@ -1,0 +1,37 @@
+{
+    "name": "ITI Smart Village Office",
+    "employees": [
+        {
+            "name": "amr",
+            "money": 98999,
+            "_healthRate": 100,
+            "currentMood": "Happy",
+            "id": 1,
+            "car": {
+                "name": "ford",
+                "fuelRate": 100,
+                "_velocity": 180
+            },
+            "email": "amr.hussain@gmail.com",
+            "_salary": 2000,
+            "distanceToWork": 30,
+            "targetHour": 6
+        },
+        {
+            "name": "Dana",
+            "money": 6000,
+            "_healthRate": 85,
+            "currentMood": "Happy",
+            "id": 2,
+            "car": {
+                "name": "Toyota",
+                "fuelRate": 90,
+                "_velocity": 120
+            },
+            "email": "dana@gmail.com",
+            "_salary": 2500,
+            "distanceToWork": 20,
+            "targetHour": 9
+        }
+    ]
+}
